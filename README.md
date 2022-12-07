@@ -14,5 +14,5 @@ Actualmente contamos con cuatro planes los cuales son:
 - Plan Básico
 - Plan Intermedio
 - Plan Completo
-- Plan Personalizado
+- Plan Personalizado <br>
 Para más información puede ver nuestro instagram
