@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center"> <br>
+  <a href="https://andersongb1007.github.io/PergonStudio/">
+      <img width="100%" src="https://github.com/PergonStudio/PergonStudio/blob/main/Portada.png">
+  </a>
+</p>
 
-<!--
-**PergonStudio/PergonStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## _Saludos cordiales_
 
-Here are some ideas to get you started:
+[Pergon Studio](https://andersongb1007.github.io/PergonStudio/) Es una empresa dedicada al diseño y desarrollo de páginas web totalmente personalizadas a las exigencias de cada cliente, a su vez, este puede elegir entre las distintas plantillas ya prediseñadas por el equipo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## _Planes_
+
+Actualmente contamos con cuatro planes los cuales son:
+- Plan Básico
+- Plan Intermedio
+- Plan Completo
+- Plan Personalizado
+Para más información puede ver nuestro instagram
